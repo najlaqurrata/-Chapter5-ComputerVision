@@ -1,4 +1,4 @@
-# -Chapter5-ComputerVision
+# Chapter5-ComputerVision
 
 ### Task 1 : Digital Image Processing using OpenCV2
 Implementation preprocessing digital image, for increase quality of image use method Pooling and CLAHE.
